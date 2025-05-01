@@ -1,6 +1,6 @@
-# GeoFeeds for Sparked Host (AS398032)
+# GeoFeeds for Sparked Host (AS397032)
 
-This repository contains geofeeds for Sparked Host (AS398032), which provide geolocation information for the BGP prefixes announced by Sparked Host. These geofeeds are designed to be used by network operators, geolocation providers, and other interested parties.
+This repository contains geofeeds for Sparked Host (AS397032), which provide geolocation information for the BGP prefixes announced by Sparked Host. These geofeeds are designed to be used by network operators, geolocation providers, and other interested parties.
 
 ## What is a GeoFeed?
 
