@@ -5,9 +5,3 @@ This repository contains geofeeds for Sparked Host (AS398032), which provide geo
 ## What is a GeoFeed?
 
 A geofeed is a text file that maps IP address prefixes to geographical locations. It follows the [IETF's Geofeed Draft](https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-finding-geofeeds), a standard format for publishing geolocation information for IP prefixes.
-
-## Repository Structure
-
-- **`geofeed.csv`**: The main geofeed file containing the mappings of BGP prefixes to their respective geographical locations. The format adheres to the IETF geofeed specification.
-- **`README.md`**: This documentation file.
-- **`.github/`**: Contains GitHub-specific configurations such as issue templates or workflows (if applicable).
